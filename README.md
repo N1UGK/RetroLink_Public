@@ -2,7 +2,7 @@
 
 RetroLink connects a standard POTS (Plain Old Telephone Service) analog telephone to the Internet over Wi-Fi, allowing peer-to-peer calling between devices and retro telephony interfacing.
 
-<img alt="RetroLink" src="https://n1ugk.com/wp-content/uploads/2025/12/RetroLink.png" />
+<img alt="RetroLink" src="https://n1ugk.com/wp-content/uploads/2026/09/RetroLink.jpeg" />
 
 ## Overview
 
