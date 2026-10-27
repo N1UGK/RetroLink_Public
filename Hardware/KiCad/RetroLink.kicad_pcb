@@ -6057,6 +6057,17 @@
 			(uuid "31bab952-7eb3-4b1f-a7a0-b936b4b9ea9d")
 		)
 		(embedded_fonts no)
+		(model "${KICAD6_3DMODEL_USER_DIR}/DM-OLED096-636.step"
+			(offset
+				(xyz 0 -12.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC3216X229N"
 		(layer "F.Cu")
@@ -19382,7 +19393,7 @@
 			(uuid "c6f8875e-c20b-4a26-887a-93c1ab07c73c")
 		)
 		(embedded_fonts no)
-		(model "SN74AHCT125DR.stp"
+		(model "${KICAD6_3DMODEL_USER_DIR}/SN74AHCT125DR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
